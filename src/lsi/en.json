@@ -1,0 +1,49 @@
+{
+  "status": {
+    "cleaning": "Cleaning",
+    "paused": "Paused",
+    "idle": "Idle",
+    "charging": "Charging",
+    "returning home": "Returning home",
+    "docked": "Docked"
+  },
+  "source": {
+    "gentle": "Gentle",
+    "silent": "Silent",
+    "standard": "Standard",
+    "medium": "Medium",
+    "turbo": "Turbo"
+  },
+  "common": {
+    "name": "Vacuum Card",
+    "description": "Vacuum card allows you to control your robot vacuum.",
+    "start": "Clean",
+    "continue": "Continue",
+    "pause": "Pause",
+    "stop": "Stop",
+    "return_to_base": "Dock",
+    "locate": "Locate vacuum",
+    "not_available": "Vacuum is not available"
+  },
+  "error": {
+    "missing_entity": "Specifying entity is required!"
+  },
+  "editor": {
+    "entity": "Entity (Required)",
+    "map": "Map Camera (Optional)",
+    "image": "Image (Optional)",
+    "compact_view": "Compact View",
+    "compact_view_aria_label_on": "Toggle compact view on",
+    "compact_view_aria_label_off": "Toggle compact view off",
+    "show_name": "Show Name",
+    "show_name_aria_label_on": "Toggle display name on",
+    "show_name_aria_label_off": "Toggle display name off",
+    "show_status": "Show Status",
+    "show_status_aria_label_on": "Toggle display status on",
+    "show_status_aria_label_off": "Toggle display status off",
+    "show_toolbar": "Show Toolbar",
+    "show_toolbar_aria_label_on": "Toggle display toolbar on",
+    "show_toolbar_aria_label_off": "Toggle display toolbar off",
+    "code_only_note": "Note: Setting actions and stats options are available exclusively using Code Editor."
+  }
+}
