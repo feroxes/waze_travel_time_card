@@ -1,5 +1,9 @@
 {
   "common": {
-    "key": "value"
+    "name": "Waze travel time Card",
+    "description": "Waze travel time card allows you to display travel time for a certain direction."
+  },
+  "error": {
+    "missing_entity": "Specifying entity is required!"
   }
 }
